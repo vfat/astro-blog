@@ -13,6 +13,6 @@
     "@astrojs/preact": "^3.0.1",
     "@astrojs/rss": "^4.0.1",
     "astro": "^4.5.3",
-    "preact": "^10.19.3"
+    "preact": "^10.28.2"
   }
 }
